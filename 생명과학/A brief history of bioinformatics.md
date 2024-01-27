@@ -1,0 +1,1 @@
+Jeff Gauthier, Antony T Vincent, Steve J Charette, Nicolas Derome, A brief history of bioinformatics, Briefings in Bioinformatics, Volume 20, Issue 6, November 2019, Pages 1981–1996, https://doi.org/10.1093/bib/bby063
