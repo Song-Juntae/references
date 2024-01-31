@@ -39,14 +39,18 @@
 ## 저널 (journal)
 
     Nature 
-        일주일에 한번, 과학 및 기술의 모든 분야
+        일주일에 한번, 과학 및 기술의 모든 분야, 1869 ~
+        [volume](https://www.nature.com/nature/volumes)
+        
     
     Science
         일주일에 한번, 과학 및 기술의 모든 분야
+        [archive](https://www.science.org/loi/science)
+        
         
     Cell
         격주, 생명과학분야
-
+        [archive](https://www.cell.com/cell/archive)
 
 ## 책
 
