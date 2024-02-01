@@ -36,7 +36,7 @@
 
 ## 컨퍼런스 (academic conference)
 
-## 저널 (journal)
+## 저널 (journal) / 트랜잭션 (Transaction)
 
     Nature 
         일주일에 한번, 과학 및 기술의 모든 분야, 1869 ~
@@ -51,6 +51,28 @@
     Cell
         격주, 생명과학분야
         [archive](https://www.cell.com/cell/archive)
+
+
+    Papers with Code
+
+    Journal of Machine Learning Research (JMLR)
+    Machine Learning
+    Pattern Recognition
+    Artificial Intelligence
+
+    IEEE
+        Transactions on Pattern Analysis and Machine Intelligence
+
+    NeurIPS (Neural Information Processing Systems)
+
+    ICLR (International Conference on Learning Representations)
+
+    ICML (International Conference on Machine Learning)
+
+    AAAI (Association for the Advancement of Artificial Intelligence)
+
+    IJCAI (International Joint Conference on Artificial Intelligence)
+
 
 ## 책
 
