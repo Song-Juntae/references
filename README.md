@@ -32,9 +32,21 @@
             인지/감성과학
             과학기술과 인문사회
 
-## 학회 (learned societies)
+## 학회 (learned societies) / 전문 협회 (professional association)
+
+    IEEE (Institute of Electrical and Electronics Engineers)
+
+    AAAI (Association for the Advancement of Artificial Intelligence)
 
 ## 컨퍼런스 (academic conference)
+
+    NeurIPS (Conference on Neural Information Processing Systems)
+
+    ICLR (International Conference on Learning Representations)
+
+    ICML (International Conference on Machine Learning)
+
+    IJCAI (International Joint Conference on Artificial Intelligence)
 
 ## 저널 (journal) / 트랜잭션 (Transaction)
 
@@ -56,23 +68,8 @@
     Papers with Code
 
     Journal of Machine Learning Research (JMLR)
-    Machine Learning
-    Pattern Recognition
-    Artificial Intelligence
 
-    IEEE
-        Transactions on Pattern Analysis and Machine Intelligence
-
-    NeurIPS (Neural Information Processing Systems)
-
-    ICLR (International Conference on Learning Representations)
-
-    ICML (International Conference on Machine Learning)
-
-    AAAI (Association for the Advancement of Artificial Intelligence)
-
-    IJCAI (International Joint Conference on Artificial Intelligence)
-
+    IEEE Transactions on Pattern Analysis and Machine Intelligence
 
 ## 책
 
