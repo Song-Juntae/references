@@ -1,13 +1,9 @@
-big3
+# 저널
     nature
     science
     cell
-
-한국어
-    bric 동향
-
     
-뉴스 / 리포트
+# 뉴스 / 리포트
 
     bric
         https://www.ibric.org/bric/trend/bio-report.do
