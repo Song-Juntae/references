@@ -4,7 +4,7 @@
     * [수학](https://github.com/Song-Juntae/references/tree/main/과학기술/수학)
     * [알고리즘](https://github.com/Song-Juntae/references/tree/main/과학기술/알고리즘)
     * [통계](https://github.com/Song-Juntae/references/tree/main/과학기술/통계)
-    * 컴퓨터 [구조](https://github.com/Song-Juntae/references/tree/main/과학기술/구조)
+    * [컴퓨터구조](https://github.com/Song-Juntae/references/tree/main/과학기술/컴퓨터구조)
     * [프로그래밍](https://github.com/Song-Juntae/references/tree/main/과학기술/프로그래밍)
     * [인공지능](https://github.com/Song-Juntae/references/tree/main/과학기술/인공지능)
     * [물리학](https://github.com/Song-Juntae/references/tree/main/과학기술/물리학)
