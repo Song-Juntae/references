@@ -62,9 +62,70 @@ proxy : (프록시) 프록시 개체는 어떤 대상의 기본적인 동작의 
 
 Programming paradigm이란 개발 방법론
 
-* 선언형 - HTML
-    * 함수형 - 순수 함수, 고차 함수
-* 명령형 - 순차적인 명령 수행
-    * 객체지향형 - 추상화, 캡슐화, 상속성, 다형성, 오버로딩, 오버라이딩
-    * 절차지향형 - 루틴, 서브루틴 같은 프로시저
+* 선언형 : HTML
+    * 함수형 : 순수 함수, 고차 함수
+* 명령형 : 순차적인 명령 수행
+    * 객체지향형 : 추상화, 캡슐화, 상속성, 다형성, 오버로딩, 오버라이딩
+    * 절차지향형 : 루틴, 서브루틴 같은 프로시저
 
+객체지향 프로그래밍 SOLID 원칙
+    Single Responsibility Principle : (단일 책임 원칙)
+    Open Closed Principle : (개방-폐쇄 원칙)
+    Liskov Substituion Principle : (리스코프 치환 원칙)
+    Interface Segregation Principle : (인터페이스 분리 원칙)
+    Dependency Inversion Principle : (의존 역전 원칙)
+
+패러다임 간의 장점만 취한다
+
+### 네트워크의 기초
+
+Network = node + link
+
+Throughput : (처리량) 단위 시간당 데이터양, 단위로는 bps(bits per second)를 쓴다
+
+대역폭 : 최대 비트 수
+
+Latency : (지연 시간) 요청이 처리되는 시간, 서버와 클라이언트 왕복시간
+
+* Network topology : 노드와 링크 배치
+    * Tree
+    * Bus : 스푸핑, 악의적인 노드의 위험
+    * Star
+    * Ring
+    * Mesh
+
+* 네트워크 규모별 분류
+    * Local Area Network : (LAN) 속도 빠르고 혼잡하지 않음
+    * Metropolitan Area Network : (MAN)
+    * Wide Area Network : (WAN) 
+
+Bottleneck : (병목현상) 네트워크 병목현상은 하나의 구성요소 때문에 전체의 성능이 제한되는 상황
+    네트워크 대역폭
+    네트워크 토폴로지
+    서버 CPU, 메모리 사용량
+    비효율적인 네트워크 구성
+
+ping : (Packet INternet Groper) 네트워크 상태 확인을 위한 패킷 전송 명령어
+
+netstat : 네트워크 접속, 라우팅 테이블, 프로토콜 등의 리스트를 보여준다
+
+nslookup : DNA 관련 내용 확인 명령어
+
+traceroute : 목적지 노드까지 네트워크 경로를 확인
+
+네트워크 프로토콜 : IEEE, IETF 표준화 단체가 정함, 예를 들어 HTTP
+
+Internet protocol suite : 프로토콜 집합
+    Transmission Control Protocol/Internet Protocol : (TCP/IP 4 계층)
+        Application layer
+        Transport layer
+        Internet layer
+        Link layer
+    Open Systems Interconnection model : (OSI model)
+        Application layer
+        Presentation layer
+        Session layer
+        Transport layer
+        Network layer
+        Data link layer
+        Physical layer
