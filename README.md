@@ -17,3 +17,4 @@
 	* [철학](https://github.com/Song-Juntae/references/tree/main/인문사회과학/철학)
 	* [영어와문학](https://github.com/Song-Juntae/references/tree/main/인문사회과학/영어와문학)
 	* [인지과학](https://github.com/Song-Juntae/references/tree/main/인문사회과학/인지과학)
+* 뉴스
