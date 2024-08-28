@@ -18,3 +18,5 @@
 	* [영어와문학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/영어와문학)
 	* [정치외교학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/정치외교학)
 	* [인지과학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/인지과학)
+
+	
