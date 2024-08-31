@@ -152,3 +152,10 @@
     [과학분야별 인포그래픽](https://www.youtube.com/@domainofscience/videos)
 
     [개발자 로드맵](https://roadmap.sh/)
+
+
+## 호스팅
+
+gitpage
+
+pythonanywhere 
