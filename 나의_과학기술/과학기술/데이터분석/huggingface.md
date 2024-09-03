@@ -1,6 +1,6 @@
 # [Hugging Face](https://huggingface.co/)
 
-# 인공지능 모델
+## 목차
 
 * Multimodal
     * Image-Text-to-Text

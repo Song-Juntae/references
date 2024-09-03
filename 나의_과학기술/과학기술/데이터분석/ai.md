@@ -1,6 +1,6 @@
 # AI
 
-## 대화형 인공지능 모델
+## 목차
 
 Google
     Gemini

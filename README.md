@@ -1,5 +1,7 @@
 # references
 
+## 나의 과학기술
+
 * [과학기술](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/과학기술)
 	* [프로그래밍](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/과학기술/프로그래밍)
 	* [컴퓨터공학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/과학기술/컴퓨터공학)
@@ -19,4 +21,15 @@
 	* [정치외교학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/정치외교학)
 	* [인지과학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/인지과학)
 
-	
+### 리드미
+
+	내용 알림
+
+### 양식
+
+	# 과학 기술 주제
+		요약
+
+	## 목차
+
+	### 각 목차마다 내용 요약과 정리
