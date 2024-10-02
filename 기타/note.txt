@@ -119,6 +119,9 @@
     Nature 
         일주일에 한번, 과학 및 기술의 모든 분야, 1869 ~
         [volume](https://www.nature.com/nature/volumes)
+            저널의 연간 발행 단위 모음
+        [collections](https://www.nature.com/nature/collections)
+            특정 주제나 기간에 속하는 논문들의 모음
         
     
     Science
