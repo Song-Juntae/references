@@ -13,6 +13,7 @@
 * [인문사회과학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학)
 	* [언어학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/언어학)
 	* [정보학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/정보학)
+	* [법학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/법학)
 	* [경영학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/경영학)
 	* [문학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/문학)
 	* [경제학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/경제학)
@@ -20,6 +21,7 @@
 	* [영어와문학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/영어와문학)
 	* [정치외교학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/정치외교학)
 	* [인지과학](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/인지과학)
+	* [콘텐츠](https://github.com/Song-Juntae/references/tree/main/나의_과학기술/인문사회과학/콘텐츠)
 
 ### 리드미
 
